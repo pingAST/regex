@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Регулярные выражения»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/s2yci6w79cxu48fy/branch/main?svg=true)](https://ci.appveyor.com/project/pingAST/regex/branch/main)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: код должен проходить ESLint без ошибок.
